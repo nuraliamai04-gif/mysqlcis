@@ -6,7 +6,7 @@
 
 > Course: IKB31603 Ethical Hacking, UniKL MIIT (October 2026)
 > Assessment: Ethical Hacking Tool Development
-> Team: Umair | Faris | Eyman | [Member 4 name]  *(replace with full names)*
+> Team: UMAIR BIN NOR AZAM | MUHAMMAD FARIS BIN ARSAD | EYMAN BIN MOHD ZOOL-KHAZRIN | NUR ALIA MAISARAH BINTI ABD RAHAMAN 
 
 ---
 
