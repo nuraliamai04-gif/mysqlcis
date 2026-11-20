@@ -5,7 +5,9 @@
 ![python](https://img.shields.io/badge/python-3.9%2B-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![mode](https://img.shields.io/badge/mode-read--only-brightgreen) ![category](https://img.shields.io/badge/category-Auditing-orange)
 
 > Course: IKB31603 Ethical Hacking, UniKL MIIT (October 2026)
+
 > Assessment: Ethical Hacking Tool Development
+
 > Team: UMAIR BIN NOR AZAM | MUHAMMAD FARIS BIN ARSAD | EYMAN BIN MOHD ZOOL-KHAZRIN | NUR ALIA MAISARAH BINTI ABD RAHAMAN 
 
 ---
