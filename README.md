@@ -195,7 +195,9 @@ Then run `python mysqlcis.py --user cis_audit`. Test it once, and add grants onl
 | ![refused](docs/03-scope-refused.png) *Out-of-scope host refused* | ![no](docs/04-consent-no.png) *Consent not given, tool exits* |
 | ![kill](docs/05-kill-switch.png) *Ctrl+C kill switch* | ![pw](docs/06-wrong-password.png) *Clear error for wrong password* |
 
-![scan](docs/07-scan-result.png)
+![scan part 1](docs/07-scan-result-1.png)
+![scan part 2](docs/07-scan-result-2.png)
+![scan part 3](docs/07-scan-result-3.png)
 *Full scan of the Docker test lab*
 
 ## 8. Ethical considerations
